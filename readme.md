@@ -1,1 +1,1 @@
-# This id a realtime app
+# This is a laravel vue realtime app
